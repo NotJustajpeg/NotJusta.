@@ -1,2 +1,10 @@
-This will be the documented journey of me starting from scratch to learn how to code and build a brand.
-I've watched for a while now but never tried my hand at it so here we go.
+ooooo      ooo               .      oooo                          .                 
+`888b.     `8'             .o8      `888                        .o8                 
+ 8 `88b.    8   .ooooo.  .o888oo     888 oooo  oooo   .oooo.o .o888oo  .oooo.       
+ 8   `88b.  8  d88' `88b   888       888 `888  `888  d88(  "8   888   `P  )88b      
+ 8     `88b.8  888   888   888       888  888   888  `"Y88b.    888    .oP"888      
+ 8       `888  888   888   888 .     888  888   888  o.  )88b   888 . d8(  888  .o. 
+o8o        `8  `Y8bod8P'   "888" .o. 88P  `V88V"V8P' 8""888P'   "888" `Y888""8o Y8P 
+                                 `Y888P                                             
+                                                                                    
+                                                                                    
